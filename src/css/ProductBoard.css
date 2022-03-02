@@ -1,0 +1,45 @@
+.review-container {   
+    opacity: 80%;
+    font-size: 15px;
+    }
+    .body{
+      background-color:rgb(96, 144, 192);
+
+    }
+    .container{
+      background-color: rgb(234, 238, 238);
+      height: 100%;
+      width: 100%;
+    }
+   
+    .add{
+      display:flex;
+      margin-left:41%;
+    }
+    .image-container{
+      padding:10px;
+      box-shadow: 2px 2px rgb(168, 223, 224);
+      border-style: groove;
+      border: 5px 5px;
+      display: inline-block;
+      opacity: 80%;
+    }
+   
+    .product-title{
+      text-decoration: underline;
+      font-size: 25px;
+      font-style: italic;
+      font-weight: 1000;
+      
+    }
+    .list{
+      text-decoration: underline;
+      
+      
+    }
+    .information-container{
+     display: inline-block;
+     text-indent: 7px;
+     color: rgb(61, 52, 52);
+    }
+    
